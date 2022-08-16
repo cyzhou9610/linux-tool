@@ -1,3 +1,3 @@
 # linux-tool
 
-wget --no-check-certificate -O inux-tool.sh https://raw.githubusercontent.com/KANIKIG/Multi-EasyGost/master/gost.sh && chmod +x inux-tool.sh && ./inux-tool.sh
+wget --no-check-certificate -O tool.sh https://raw.githubusercontent.com/cyzhou9610/linux-tool/master/tool.sh && chmod +x tool.sh && ./tool.sh
