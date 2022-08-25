@@ -37,7 +37,7 @@ function num() { #选项
     exec sudo systemctl set-default multi-user.target
     echo "重启后生效"
     ;;
-  4)
+  5)
     exec sudo systemctl set-default graphical.target
     echo "重启后生效"
     ;;
